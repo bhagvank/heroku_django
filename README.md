@@ -22,6 +22,7 @@ git clone https://github.com/heroku/python-getting-started.git
 
 3.create account on heroku
 ```
+heroku login 
 
 heroku create
 
