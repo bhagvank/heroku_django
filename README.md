@@ -12,7 +12,7 @@
 
   * [Mysql](https://dev.mysql.com/downloads/mysql/)
   
-  * [Heroku] https://devcenter.heroku.com/articles/getting-started-with-python#introduction
+  * [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
 
 2.git clone this repository
 ```
