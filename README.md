@@ -16,7 +16,7 @@
 
 2.git clone this repository
 ```
-git clone https://github.com/heroku/python-getting-started.git
+git clone https://github.com/bhagvank/heroku_django.git
 
 ```
 
