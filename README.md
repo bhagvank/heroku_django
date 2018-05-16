@@ -2,7 +2,7 @@
 
   
   * Django Authentication - with Mysql
-## Django Polls App - with Mysql
+## Prerequisites
 
 1. Ensure that mysql is installed, python3 and django for polls app - mysite folder.
 
